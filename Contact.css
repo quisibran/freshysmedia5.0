@@ -1,0 +1,75 @@
+ .u-section-1 {
+  background-image: url("images/BrilliantFastGalapagosdove-size_restricted-10.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 509px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 290px 453px 60px 468px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 420px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 353px;
+    margin-left: 368px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 322px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 243px;
+    margin-left: 258px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 242px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 153px;
+    margin-left: 168px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 152px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 53px;
+    margin-left: 68px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 232px;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 66px auto 0;
+  padding: 25px 106px 25px 105px;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 18px auto 29px;
+}
